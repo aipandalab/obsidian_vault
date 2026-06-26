@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "image_center"
+  ],
+  "theme": "moonstone",
+  "interfaceFontFamily": "AppleGothic"
+}

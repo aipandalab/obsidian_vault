@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "a9b034ae46b36f0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1689889dcfd41bf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20af39faf679c9b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习笔记/概率论与数理统计.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "概率论与数理统计"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b98e3c892f5d1c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3caabc24e353de8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb2981809984bd46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8e7027c7c1f9b506",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#标签1",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2542c81ab0bc6b25",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "2407f6dc1621cfee",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ef1852de2ec7b28",
+    "type": "split",
+    "children": [
+      {
+        "id": "de084b0a4efc4998",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66af3ab4709fb9c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "大脑魔方/inbox/Markdown语法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Markdown语法 的反向链接列表"
+            }
+          },
+          {
+            "id": "2c7e0517b81edb1f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "大脑魔方/inbox/双链.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "双链 的出链列表"
+            }
+          },
+          {
+            "id": "f03305e0731ea73d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "大脑魔方/1.4学生讲座/工具“决定”思维：从石斧到AI，从AI到人脑.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "工具“决定”思维：从石斧到AI，从AI到人脑 的大纲"
+            }
+          },
+          {
+            "id": "a71546b6d3d5eed5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "289c84b28fcf9c62",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "a0a799b9dd6c961f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "ce1f422f8b3dccf7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-kanban:创建新看板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "20af39faf679c9b0",
+  "lastOpenFiles": [
+    "学习笔记/概率论与数理统计.md",
+    "正在创作/参考答案.md",
+    "正在创作/科技特长生测试题库.md",
+    "Web收集/最孤独的学科，数学：它的美，只能用理解欣赏，不能用感官去捕捉.md",
+    "正在创作/特长生Python测试.md",
+    "学习笔记/逻辑学概论/第11章 余论.md",
+    "学习笔记/逻辑学概论/第10章 基本命题的推理.md",
+    "学习笔记/版面布局的基本原则.md",
+    "学习笔记/基地校设立前置要求.md",
+    "学习笔记/逻辑学概论/第9章 传统逻辑中基本命题的推理.md",
+    "Web收集/AI是数学的胜利，不是理解的胜利，它是最强预测器，但不是思想家.md",
+    "学习笔记/知识管理/Obsidian学习笔记.md",
+    "学习笔记/逻辑学概论/第8章 基本命题的成分与内部结构.md",
+    "学习笔记/逻辑学概论/第7章 命题演算：公理系统，自然演绎系统.md",
+    "学习笔记/逻辑学概论/第6章 命题演算：公理系统.md",
+    "学习笔记/逻辑学概论/第5章 范式与命题联接词的充足集.md",
+    "学习笔记/逻辑学概论/第4章 有效推理形式的判定.md",
+    "Excalidraw/Drawing 2025-05-02 20.33.11.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-02 20.26.13.excalidraw.md",
+    "学习笔记/逻辑学概论/第7章 命题演算：公理系统，自然演绎系统.md.baiduyun.uploading.cfg",
+    "学习笔记/逻辑学概论/第6章 命题演算：公理系统.md.baiduyun.uploading.cfg",
+    "学习笔记/逻辑学概论/第5章 范式与命题联接词的充足集.md.baiduyun.uploading.cfg",
+    "学习笔记/逻辑学概论/第4章 有效推理形式的判定.md.baiduyun.uploading.cfg",
+    "学习笔记/逻辑学概论/第3章 常用联接词.md.baiduyun.uploading.cfg",
+    "学习笔记/逻辑学概论/第2章 逻辑学的产生与发展.md.baiduyun.uploading.cfg",
+    "学习笔记/逻辑学概论/第1章 逻辑学概述.md.baiduyun.uploading.cfg",
+    "学习笔记/逻辑学概论/第2章 逻辑学的产生与发展.md",
+    "学习笔记/逻辑学概论/第1章 逻辑学概述.md",
+    "学习笔记/逻辑学概论/第3章 常用联接词.md",
+    "学习笔记/Python学习/第0章 课程概述.md",
+    "学习笔记/Python学习/第3章 基本数据类型.md",
+    "学习笔记/Python学习/第1章 Python基本语法.md",
+    "学习笔记/Python学习/第2章 深入理解Python语言.md",
+    "学习笔记/逻辑学概论",
+    "校园科技节/WechatIMG818.jpg",
+    "校园科技节/科技节活动台词.docx",
+    "校园科技节/乌鲁木齐市第十二中学首届科技节活动方案新.pdf",
+    "附件存储/ABUIABACGAAg0bvDuwYo3MCiBTDcDDiyBw.jpg",
+    "附件存储/ABUIABAEGAAg1LKPvAYoz9yJ3wcwoAY49AM.png",
+    "附件存储/ABUIABAEGAAgw6DDuwYogoavEzCGCjj2BQ.png",
+    "附件存储/ABUIABAEGAAghrDDuwYokt3QxgQwqAs46wY.png",
+    "大脑魔方/1.4附件/ABUIABACGAAg0bvDuwYo3MCiBTDcDDiyBw.jpg",
+    "大脑魔方/1.4附件/ABUIABAEGAAg1LKPvAYoz9yJ3wcwoAY49AM.png",
+    "大脑魔方/1.4附件/ABUIABAEGAAghrDDuwYokt3QxgQwqAs46wY.png",
+    "大脑魔方/1.4附件/ABUIABAEGAAgw6DDuwYogoavEzCGCjj2BQ.png",
+    "大脑魔方/attachment/也许是最全面的Obsidian教程！【Obsidian公开课 课时3 Markdown语法】顶级知识管理神器、双链笔记先驱——OB保姆级教程 9-18 screenshot.png",
+    "未命名.canvas"
+  ]
+}
