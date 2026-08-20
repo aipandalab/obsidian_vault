@@ -324,10 +324,57 @@ https://www.youtube.com/watch?v=KUoTFfhYT9M
 
 ## 7. At a Jewelry Store - The Wrong Engraving
 在珠宝店里——‘刻错字了’
-> A: 
-> B: 
-> A: 
-> B: 
+> A: Excuse me. The engraving is wrong.
+> B: Wrong? Let me see. 
+> A: I ask for "Takeshi". But it says "Takashi".
+> B: It says "Takashi" on the order form.
+> A: I wrote "Takeshi". With an "e".
+> B: No, you wrote "Takashi". With an "a".
+> A: I didn't. I know my boyfriend's name.
+> B: This is your handwriting. Look.
+> A: Oh no. I made a mistake.
+> B: You spelled it wrong.
+> A: I'm so sorry. I was in a hurry.
+> B: Can you fix it? Change it to "Takeshi"? I can re-engrave it. But it costs extra. **costs extra**：动词短语，意为“额外收费 / 需要多花钱”
+> A: Extra? How much?
+> B: $25.
+> A: $25? That's a lot.
+> B: It takes time. I have to remove the old letters.
+> A: Remove? How?
+> B: I use a machine to grind it off. **grind... off**：经典动词短语，意为“用磨擦/打磨的方式把……去除或磨掉”
+> A: Grind it off? That sounds scary.
+> B: It's safe. But it takes time.
+> A: How long?
+> B: One hour.
+> A: One hour? I can wait.
+> B: Are you sure you want to do it?
+> A: Yes. It's a gift for my boyfriend.
+> B: What is the occasion? **occasion**：名词，意为“场合、盛会、特殊节日 / 契机”（在买礼物或预订服务时，店员经常会用这个词来了解是生日、纪念日还是婚礼等）。
+> A: Occasion? What is occasion?
+> B: The reason. Birthday? Anniversary? **Anniversary**：名词，意为“纪念日（如结婚纪念日、恋爱周年纪念等）”。
+> A: Ah, anniversary. Our three-year anniversary. 
+> B: That's special. You want it to be perfect. 那很特别。你希望它能十全十美 / 完美无瑕。
+> A: Yes! Perfect. He will love it.
+> B: I'll start the work now.
+> A: Thank you. I'm sorry for the mistake.
+> B: It happens. People make spelling mistakes.
+> A: I need to be more careful.
+> B: Yes. Always double-check your spelling.
+> A: Double check? What is double-check?
+> B: Check again. Two times.
+> A: Ah, check twice. I will remember.
+> B: Here is the new necklace. "Takeshi".
+> A: Let me see. Yes! This is right!
+> B: I'm glad you are happy.
+> A: I learned new words. Engraving, grind, occasion, double-check.
+> B: And anniversary! Don't forget anniversary.
+> A: Yes, anniversary. Tree years together.
+> B: Congratulations! I hope he loves the gift.
+> A: He will. Thank you, Marcus.
+> B: You are welcome. Enjoy your anniversary!
+> A: Thank you! Goodbye!
+
+## 8. At a Photo Studio - The Bad Passport Photo
 > A: 
 > B: 
 > A: 
