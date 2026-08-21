@@ -375,6 +375,277 @@ https://www.youtube.com/watch?v=KUoTFfhYT9M
 > A: Thank you! Goodbye!
 
 ## 8. At a Photo Studio - The Bad Passport Photo
+> A: Hello. I need passport photos.
+> B: Sure. I can take them now. Sit here.
+> A: But I have a hat. I should remove it?
+> B: No, hats are fine.
+> A: But the visa rules say no hats.
+> B: The rules? Are you sure?
+> A: Yes. I read the website. No hats, no glasses, white background.
+> B:  I've taken many passport photos with hats.
+> A: For American visa? They are strict.
+> B: Are you applying for an American visa?
+> A: Yes. The rules are very specific. **specific**：形容词，意为“具体的、明确的、特定的”
+> B: Specific? What does that mean?
+> A: Very clear. Very exact. No hats. No glasses. White background.
+> B: I can do them. Let me retake them.
+> A: Also, the background should be white.
+> B: It is white.
+> A: No, it's a little gray. Can you make it whiter?
+> B: That's as white as it gets. 这已经是极限白了/ 不能再白了。
+> A: The visa rules say "pure white." 签证规定上写着必须是‘纯白色’。
+> B: Pure white? That's too strict.
+> A: They will reject my application.
+> B: Reject? What is reject?
+> A: They say no. They don't accept it. 
+> B: Oh, I see. That's bad.
+> A: Can you edit the background? Make it pure white?
+> B: I can use Photoshop. But It costs extra.
+> A: Extra? How much?
+> B: $10 more.
+> A: $10? That's expensive.
+> B: It takes time to edit.
+> A: Okay, I pay. I need the right photos.
+> B: Also, the size must be 2X2 inches. 在英语日常生活中，表达长宽、尺寸或面积时，均使用 **"by"**：**尺寸大小**：_a 2x4 piece of wood_ 读作 _two **by** four_（两乘四规格的木材）。
+> A: 2X2 inches? Yes, I know that.
+> B: Do you need the photo for the visa?
+> A: Yes. My visa appointment(预约) is next week.
+> B: I'll make sure everything is perfect.
+> A: Thank you. I'm nervous. **nervous**：形容词，意为“紧张的、不安的”（常用于描述面对重要考试、面试、签证时的心理状态）。
+> B: Nervous? Why?
+> A: The visa interview. I'm scared. 签证面谈。我好害怕 / 我心里很慌。
+> B: Don't be scared. Just be honest. 别害怕。只要诚实回答就行了。
+> A: Honest? What is honest?
+> B: Tell the truth. Don't lie.
+> A: Yes, I tell the truth. I'm a student.
+> B: Then you will be fine.
+> A: I learned new words. Specific, pure, reject, honest.
+> B: And visa! You already knew that.
+> A: Yes, visa. The document to travel.
+> B: Here are your photos. Perfect condition. 这是你的照片。完美状态 / 符合所有标准。
+> A: Thank you, Clara. They look good.
+> B: Good luck with your visa!
+> A: Thank you. Goodbye!
+
+
+## 9. At a Car Dealership - The Test Drive
+> A: Hello. I want to test drive this car.
+> B: Sure. Do you have insurance?
+> A: Insurance? For test drive?
+> B: Yes, we need proof of insurance.
+> A: I don't have a car. I don't have insurance.
+> B: Then I can't let you test drive.
+> A: Why? I'm just driving around the block. 我只是在附近街区兜一圈 / 转转。
+> B: What if you have an accident? 万一发生事故了怎么办？
+> A: Accident? I won't have an accident.
+> B: You never know. It's for your protection.
+> A: Protection? What is protection?
+> B: Safety. Keeping you safe.
+> A: I'm safe. I'm a good driver.
+> B: I believe you. But it's the policy.
+> A: Policy again. I don't like policy.
+> B: I'm sorry. I can't break the rules.
+> A: Can I buy the car without test driving?
+> B: You can, but I don't recommend it.
+> A: Recommend? What is recommend?
+> B: Advise. I advise you to try it first.
+> A: But I can't try it without insurance.
+> B: Do you have a friend with insurance?
+> A: A friend? Maybe my neighbor.
+> B: Your neighbor can come with you.
+> A: He is old. He doesn't like driving.
+> B: He doesn't have to drive. He just needs to be in the car.
+> A: Why? Why does he need to be in the car?
+> B: His insurance covers him. And you.
+> A: So if I have an accident, his insurance pays?
+> B: Yes! That's how it works. 对的！事情就是这样的（这就是试驾保险的运作方式）。
+> A: I understand now. I ask my neighbor.
+> B: Great. Bring him tomorrow.
+> A: But I want to drive today.
+> B: I'm sorry. I can't help you today.
+> A: This is very frustrating. 这太让人沮丧了 / 真是烦人。
+> B: I know. But it's for your safety.
+> A: Safety is important. I understand.
+> B: Do you want to sit in the car? Feel it?
+> A: Yes! I can sit in it?
+> B: Of course. You can sit, touch, feel.
+> A: The seats are comfortable. I like it.
+> B: It's a great car. You will love it.
+> A: I think I want to buy it.
+> B: Are you sure? Without test driving?
+> A: Yes. I feel good about it.
+> B: Okay, let me get the paperwork. **paperwork**：名词，意为“文书工作、手续文件、合同表格”（在买车、租房、签证等业务中经常听到）。
+> A: Paperwork? That's a lot of papers.
+> B: Yes, but I'll help you.
+> A: I learned new words. insurance, protection, recommend, advise.
+> B: And paperwork! That's a good one.
+> A: Yes, paperwork. Many papers for the car.
+> B: You are doing great.
+> A: Thank you, Kevin. You are very patient.
+> B: Everyone needs help sometimes.
+> A: Thank you. Goodbye!
+> B: Goodbye, Olga. See you tomorrow.
+
+## 10.  At a Restaurant - The Cold Food
+> A: Excuse me. My food is cold.
+> B: Cold? That's cold dish. 冷的？那本身就是一道冷盘呀。
+> A: No, I ordered the chicken pasta. Hot chicken pasta.
+> B: You ordered the chicken salad. Cold chicken salad.
+> A: No, I said chicken pasta. With sauce.
+> B: Let me check your order. It says "chicken salad" here.
+> A: I didn't order salad. I said pasta.
+> B: The waiter wrote "salad".
+> A: The waiter made a mistake.
+> B: I'm sorry. I can fix it.
+> A: Fix it? I've been waiting 30 minutes.
+> B: I know. I will rush the kitchen.
+> A: Rush? That means ... make it  faster?
+> B: Yes. Faster. Priority. **priority**：名词，意为“优先权、优先事项、重点”
+> A: Priority? What is priority? 
+> B: Important. First. We make it first.
+> A: Thank you. I'm very hungry.
+> B: Can I get you some bread while you wait?
+> A: Bread? Yes, please. I'm starving.
+> B: Starving? That means ... very hungry?
+> A: Yes! Very very hungry.
+> B: I'll bring bread right away. Your pasta will be ready in 5 minutes. **right away**：介词短语，意为“立刻、马上、马上就去”（在服务行业和日常对话中非常高频，表示行动迅速）。
+> A: 5 minutes? That's fast.
+> B: The chef is making it now. 主厨现在正在做呢。_chef_ 指厨师长/主厨
+> A: Thank you for helping me.
+> B: I'm sorry for the mistake.
+> A: It's not your fault. It's the waiter.
+> B: I'll talk to him. He needs to listen better.
+> A: Yes, he needs to listen. I said pasta clearly.
+> B: You are very understanding. **understanding**：形容词，意为“通情达理的、善解人意的、体谅的”（常用于称赞对方不计较小失误、很宽容的态度）。
+> A: Understanding? What is understanding?
+> B: Patient. Not angry.
+> A: I'm angry. But I try to be calm. **try to be calm**：动词短语，意为“努力保持镇定、克制情绪”（_calm_ 意为冷静的）。
+> B: That's a good quality.
+> A: Quality? What's quality?
+> B: Something good about you. **Something good about...**：短语结构，意为“关于……的好处 / 优秀之处”。
+> A: Ah, like a good thing. **Like a good thing**：口语习惯表达，意为“听起来像是一件好事 / 感觉是个好东西”
+> B: Yes! Patience is a good quality. Here is your pasta. Hot and fresh. **Patience**：名词，意为“耐心、忍耐力”。
+> A: Oh! This looks amazing. **amazing**：形容词，意为“令人惊叹的、极好的、棒极了”（常用于对食物、风景或事物的外观、品质表示高度赞赏）。
+> B: Enjoy your meal.
+> A: Thank you, Stella. You saved my dinner.
+> B: I'm glad I could help.
+> A: I learned new words. Priority, starving, understanding, quality.
+> B: And complaint! You complained about the food. **complain about**：动词短语，意为“抱怨、投诉……关于……”
+> A: Yes, I complained. But you fixed it. 
+> B: That's my job. Customer satisfaction.
+> A: Satisfaction. I like that word.
+> B: You are a good customer.
+> A: Thank you. Goodbye!
+> B: Goodbye, Diego. Enjoy your pasta!
+
+## 11. The Phone Call
+> A: Tom, who was that man? Why did he call asking for you?
+> B: What man? Why are you asking me that?
+> A: Don't play dumb. He said you owe money.  **play dumb**：地道习惯用语，意为“装傻、装糊涂、假装不知道”（_dumb_ 在这里指“装作茫然无知”）。
+> B: Sarah, please calm down. It's not big deal. 这没什么大不了的 / 算不上什么大事。
+> A: Not a big deal? He call our home about your debt. 他为了你的债务问题打到我们家里来了。**debt**：名词，意为“债务、欠款”（注意字母 `b` 不发音，读作 /dɛt/）。
+> B: I was going to handle it. You didn't need to get involved. 我本来准备自己解决的。**get involved**：动词短语，意为“卷入、牵涉其中、插手”（_involved_ 意为参与的、涉入的）。
+> A: I didn't get involved. He called me because you ignored him. 他打电话给我，是因为你无视了他。
+> B: Okay, fine. I owe some money.
+> A: How much? Don't give me half the truth.
+> B: About three thousand dollars. I'll pay it back.
+> A: Three thousand dollars? When were you planing to tell me? 你本来打算什么时候告诉我？
+> B: When I had the money.  I didn't want to worry you. 
+> A: You didn't want to worry me?  You lied to me instead.
+> B: I didn't lie. I just kept it to myself.
+> A: That's still lying, Tom. You know exactly what you did.  汤姆，那依然是在说谎。**lying**：动词 _lie_（说谎）的现在分词形式，在此构成进行时态，意为“在说谎、撒谎”。**exactly**：副词，意为“确切地、精准地”（在这里用来加强语气，表示“百分之百清楚”）。
+> B:  I was embarrassed. I didn't know you'd react. **embarrassed**：形容词，意为“尴尬的、不好意思的、窘迫的”（常用于描述因做错事、出丑或囊中羞涩而感到难为情的状态）。**react**：动词，意为“反应、作出反应”（_reaction_ 的动词形式）。
+> A: You could have trusted me. I'm your wife, not your enemy. **could have done**：虚拟语气结构，意为“本能够…… / 本可以……”（表示过去具备某种能力或可能性，但实际上并没有发生）。**enemy**：名词，意为“敌人、对头”
+> B: I know. I just thought I could fix it alone.
+> A: And did you fix it? No, now strangers are calling our house. **strangers**：名词 _stranger_（陌生人）的复数形式，意为“陌生人”。
+> B: I know it got out of control. I'm sorry.
+> A: Why did you take the loan? Tell me everything. **take a loan**：固定搭配，意为“借贷、贷款、背负贷款”（_loan_ 在此作名词，意为“贷款、借款”）。
+> B: I lost my job for a few months. We still had bills to pay.
+> A: You lost your job? You never told me that either.
+> B: I got another job later. I thought everything would be fine.
+> A: You were unemployed and struggling alone. Why didn't you tell me? 你当时失业了，还在独自苦苦挣扎吗？
+> B: I was ashamed. I didn't want you to think I couldn't take care of us. **ashamed**：形容词，意为“羞愧的、惭愧的、不好意思的”（比普通的 _embarrassed_ 情绪更深，通常带有强烈的自责或因犯错而感到内疚的意味）。
+> A: Tom, we're a family. You don't have to carry everything alone.
+> B: I know that now. I made a terrible mistake.
+> A: Is there any other debt? Think before you answer me.
+> B: No, there isn't. That's everything, I swear. **I swear**：插入语，意为“我发誓”（常用于增加自己说话的可信度）。
+> A: Don't swear. Show me the documents.
+> B: Okay. I'll show you everything tonight.
+> A: Good. I'm done finding out important things by accident.我不想再通过偶然的机会发现重要的事情了。**I'm done (with) doing something** **含义**：“我已经受够了…… / 我再也不想……了 / 我彻底厌倦做某事了”。**用法**：表达一种忍耐到了极限、决定彻底终止某种状况的态度。**find out**：动词短语，意为“查明真相、发现（隐瞒的事情）”。**by accident** **含义**：“偶然地、意外地、不小心地”。
+> B: I understand. I should have been honest from the beginning. **should have done** **含义**：“本应该做某事（但实际上过去没有做）”。这是一个经典的虚拟语气结构，常用于表示事后的懊悔、反省或自责。
+> A: What are we going to do about the three thousand dollars?  **What are we going to do...?** **含义**：“我们打算怎么处理…… / 我们该拿……怎么办？”（用于面对棘手、突发的问题时，商讨对策或向对方追问解决方案）。
+> B: I'll call them tomorrow. I'll ask for a payment plan.
+> A: And I'll help you make a budget. But no more secrets. **make a budget**：固定搭配，意为“做预算、制定收支预算计划”（_budget_ 意为“预算”）。**no more...**：固定短语，意为“不再…… / 再也没有……”（用来强调某种行为或情况的彻底终止）。
+> B: Agreed. I'll never hide a money problem from you again. **hide something from someone**：固定搭配，意为“对某人隐瞒某事”。
+> A: I'm still angry. But I don't want you facing this alone.
+> B: Thank you, Sarah. I really needed to hear that.
+> A: Just remember something. I can handle the truth, but I can't handle another lie.
+> B: I understand. This time, I'll prove it with my actions. 这一次，我会用实际行动来证明。
+
+## 12. The Secret Shopping
+> A: Mark, what's all this? Why are there so many package here?
+> B: Those? They're nothing. Just some things I bought online.
+> A: Nothing? There are six packages here. How much did you spend?
+> B: I don't know exactly. It wasn't that much, honestly. 老实说，没花那么多钱。
+> A: Don't lie to me. I already saw the receipts.
+> B: Okay, fine. I spent about six hundred dollars.
+> A: Six hundred? Are you serious right now? **Be serious**：固定搭配，意为“认真的、当真的”。
+> B: It's not like I spent all our savings. Don't make it sound crazy. **It's not like...**：口语高频习惯用语，意为“又不是…… / 倒也没有……（用于辩解或反驳对方的夸大）”。
+> A: We agreed to save money this month. Did you forget that?
+> B: No, I didn't forget. I just wanted to buy a few things for myself.
+> A: A few things? You bought shoes, clothes, and a new watch.
+> B: I work hard too. Can't I buy something nice sometimes? 我就不能偶尔买点好东西吗？
+> A: Of course you can. But not behind my back, and not with money we need for bills.
+> B: I knew you'd react like this. That's why I didn't tell you. 
+> A: So you knew you was wrong? Then why did you do it?
+> B: Because I wanted something for myself. Is that really so terrible?
+> A: Wanting something isn't terrible. Hiding if from me is the problem. 
+> B: You make everything about trust. Sometimes it's just shopping. 你把什么事都扯到信任问题上来。
+> A: No, it's not just shopping. It's another secret about money. 
+> B: Another secret? What are you talking about?
+> A: The credit card from last month. You hid that too. 上个月的那张信用卡，你也瞒着我了。
+> B: That was different. I already told you about it. 
+> A: Only after I found the statement. You never told me first. 
+> B: Okay, yes. I handled that badly too. 
+> A: Then why are you doing it again? Don't you see the problem? 难道你还没看出问题所在吗？
+> B: I see it now. I just didn't think you'd be this angry. 
+> A: I'm angry because I can't trust what you tell me anymore. **anymore."** **意思**：**“再也不……了 / 以后不会了”**
+> B: That's not fair. I'm not some terrible husband. 
+> A: I never called you terrible. I said you're making terrible choices. 
+> B: That still hurts, you know. I'm trying to make you happy. 
+> A: Buying things isn't making me happy. Honesty would make me happy.
+> B: So what do you want me to do? Return everything?
+> A: Yes, if we can't afford it. Our bills come first. **come first**：固定搭配，意为“处于首位、最重要、优先考虑”。
+> B: Fine. I'll return the clothes and the watch.
+> A: And the shoes? 
+> B: I'll return those too. Happy now?
+> A: Don't say it like that. I'm not trying to control you. 
+> B: It feels like you're controlling everything I do.
+> A: I'm not controlling you. I'm asking you to respect our agreement.
+> B: You're right. I got carried away, and I was selfish. 我当时忘乎所以（一时冲动）了，而且我很自私。**get carried away**：高频地道短语，意为“忘乎所以、情绪失控、因过于兴奋而失去理智”
+> A: Thank you for finally saying that. That's all I wanted.
+> B: I'll return everything tomorrow. Then we'll check the budget(预算) together.
+> A: Good. No more secret shopping, okay?
+> B: Okay. No more hiding things from you.
+> A: I'm still upset. But at least we're finally being honest.
+> B: I'm sorry, Lisa. I really messed up this time. **mess up**：非常地道的动词短语，意为“搞砸了、弄糟了、犯大错”。
+> A: Then learn from it. I don't want to have this flight again. **have a fight**：固定搭配，意为“吵架、发生争执”
+
+
+## 13. The Truth About Our Marriage
+关于我们婚姻的真相
+> A: Daniel, we need to talk tonight. Please don't walk away this time.
+> B: I'm not walking away. But I don't know what you want from me.
+> A: I want the truth. Why have you been acting different lately? 你最近怎么表现得怪怪的？
+> B: Different how? I've just been tired. Work has been stressful.
+> A: Don't blame everything on work. You've been distant for months. 你已经疏远我好几个月了 **blame everything on...**：动词短语，意为“把所有事情都归咎于…… / 把一切责任都推给……”。
+> B: I said I'm tired. What else do you want me to say?  你还想让我说什么？
+> A: I want you to look at me. You've barely looked at me all week. **barely**：副词，意为“几乎不、勉强”（带有否定意味）。
+> B: That's not true. You're exaggerating everything again. **exaggerate**：动词，意为“夸大、夸张”。
+> A: Exaggerating? You come home late, you hide your phone, and you barely speak.
+> B: My phone is private. Why are you checking what I'm doing?
+> A: Because you're acting like you have something to hide. What am I supposed to think? **be supposed to do sth.**：非常高频的日常句式，意为“应该…… / 本应…… / 理应……”。
+> B: You shouldn't assume the worst. - **assume**：动词，意为“假设、臆测、认为”。**the worst**：名词短语，意为“最坏的情况 / 最糟糕的设想”。
 > A: 
 > B: 
 > A: 
@@ -393,3 +664,18 @@ https://www.youtube.com/watch?v=KUoTFfhYT9M
 > B: 
 > A: 
 > B: 
+> A: 
+> B: 
+> A: 
+> B: 
+> A: 
+> B: 
+> A: 
+> B: 
+> A: 
+> B: 
+> A: 
+> B: 
+> A: 
+> B: 
+> 
