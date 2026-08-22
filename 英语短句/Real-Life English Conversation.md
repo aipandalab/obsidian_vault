@@ -645,37 +645,44 @@ https://www.youtube.com/watch?v=KUoTFfhYT9M
 > A: Exaggerating? You come home late, you hide your phone, and you barely speak.
 > B: My phone is private. Why are you checking what I'm doing?
 > A: Because you're acting like you have something to hide. What am I supposed to think? **be supposed to do sth.**：非常高频的日常句式，意为“应该…… / 本应…… / 理应……”。
-> B: You shouldn't assume the worst. - **assume**：动词，意为“假设、臆测、认为”。**the worst**：名词短语，意为“最坏的情况 / 最糟糕的设想”。
-> A: 
-> B: 
-> A: 
-> B: 
-> A: 
-> B: 
-> A: 
-> B: 
-> A: 
-> B: 
-> A: 
-> B: 
-> A: 
-> B: 
-> A: 
-> B: 
-> A: 
-> B: 
-> A: 
-> B: 
-> A: 
-> B: 
-> A: 
-> B: 
-> A: 
-> B: 
-> A: 
-> B: 
-> A: 
-> B: 
-> A: 
-> B: 
-> 
+> B: You shouldn't assume the worst. Not everything is  about you. 并不是所有事情都跟你有关系 / 别什么事都扯到你自己身上。 **assume**：动词，意为“假设、臆测、认为”。**the worst**：名词短语，意为“最坏的情况 / 最糟糕的设想”。- **everything is about...**：意为“一切都是围绕着……转 / 全是为了……”。 加上否定词 _not_ 后，整句意为“并不是每件事都针对你 / 别总觉得自己是世界的中心 / 别太自恋/自私了”。在争吵时，这句话往往带有很强的回击和激怒对方的意味。
+> A: Wow. So now I'm the problem? That's what you're saying? 哇。所以现在反倒成我的问题了？” / “呵，现在全成了我的错了？
+> B: No, that's not what I meant? You're twisting my words again. **twist someone's words**：非常地道的习惯用语，意为“歪曲某人的话、断章取义、恶意曲解”。
+> A: Then explain yourself. Why did you delete those messages?
+> B: What messages? What are you talking about? 
+> A: Don't lie to me. I saw you deleting them last night.
+> B: Emma, please. This isn't what you think. 
+> A: Then tell me what it is. I'm giving you one chance to be honest.
+> B: I was talking to someone from work. That's all.
+> A: Someone from work? Then why hide it from me?
+> B: Because I knew you'd get jealous. I didn't want another fight. **get jealous**：意为“吃醋、嫉妒、心生猜忌”
+> A: You created the fight by hiding it. Do you understand that? 
+> B: I didn't cheat on you. Nothing happened between us. **cheat on someone**：非常地道的固定搭配，意为“对（伴侣）不忠、出轨、背叛感情”。
+> A: Then why does this feel like a betrayal? Why have you been lying to me? **betrayal**：名词，意为“背叛、出卖、辜负信任”（动词形式为 _betray_）。在亲密关系中，这个词分量极重，用来形容信任的崩塌。
+> B: Because I was confused.  I didn't know what I was feeling. I didn't want another fight. 我当时甚至不知道自己的真实感受是什么 / 我自己也很迷茫、理不清思绪。**confused**：形容词，意为“迷茫的、困惑的、不知所措的”。
+> A: What were you feeling? Say it clearly. Don't make me guess.
+> B: I felt lonely. I felt like you didn't need me anymore.
+> A: You felt lonely? You could have talked to me. 
+> B: Every time I tried, we fought. I started keeping everything inside. **fight**（过去式为 _fought_）：动词，意为“争吵、打架”。
+> A: And I was supposed to know that? You shut me out completely. **shut someone out**：非常地道的固定动词短语，意为“把某人关在门外、拒绝让某人参与、对某人封闭内心”。
+> B: I know. I handled it badly. 
+> A: You hurt me, Daniel. You made me question everything about us. 你让我开始质疑我们之间的这一切
+> B: I'm sorry. I never wanted you to feel this way.  **question**：在此处作动词，意为“质疑、对……产生怀疑”。**feel this way**：意为“有这种糟糕的感受/这样难过”。
+> A: Sorry isn't enough tonight. I need to know if you still want this marriage.
+> B: Yes, I do. I still love you. and I don't want to lose you.
+> A: Then stop hiding behind excuses. I need honesty from you. 那就别再拿借口当挡箭牌了 / 别再找借口了。
+> B: Okay. I'll tell you everything, even if it's difficult. **even if...**：连词短语，意为“即使……、纵然……”，引导让步状语从句。
+> A: And the woman from work? Is she still talking to you?
+> B: No. I ended that conversation today. I don't want anything between us.
+> A: I need time to believe you. You can't expect me to trust you immediately.
+> B: I understand. I'll give you that time. 
+> A: And we need to change something. We can't keep living like strangers.
+> B: We need to talk before things become this bad again.
+> A: I don't want another perfect promise. I want real effort. **effort**：名词，意为“努力、尽力、尝试”。
+> B: Then I'll show you. I'll stop hiding, and I'll start listening.
+> A: I'm still hurt. But I'm willing to try one more time.
+> B: Thank you. I won't waste that chance.
+> A: Don't thank me yet. Trust has to be earned again. 先别急着谢我 / 现在谢我还为时过早。信任必须重新去赢回。
+> B: I know. And I'll earn it, one day at a time. **one day at a time**：非常地道且优美的英文习语，字面意思是“一次过一天”，在实际语境中通常翻译为“脚踏实地、一步一个脚印、一天天地来”。
+> A: Then start tonight. Tell me the whole truth.
+> B: Okay. No more lies, Emma. I'll tell you everything.
